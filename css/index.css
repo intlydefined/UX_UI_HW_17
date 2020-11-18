@@ -110,3 +110,9 @@ a:hover {
  #webpages > a:hover {
      border-bottom: 3px solid black;
  }
+
+ .copy {
+     float: right;
+     font-family:'Poppins', sans-serif;
+     font-size: 12pt;
+ }
